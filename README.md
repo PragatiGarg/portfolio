@@ -20,6 +20,8 @@
 4. Negative testing by giving wrong input
 
 ## Postman Collection
+Local Run: Run npm i on the root directory and run the application with nodemon .
+
 Local Testing: https://www.getpostman.com/collections/f66daf29746fd93e9faf
 
 Hosted Testing:
