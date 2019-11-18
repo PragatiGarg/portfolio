@@ -1,0 +1,27 @@
+{
+    "INVALID_INPUT": {
+        "message": "Please send all the required inputs correctly",
+        "type": "Validation Error",
+        "statusCode": 422
+    },
+    "INTERNAL_SERVER_ERROR": {
+        "message": "Internal Server Error. Contact the developer",
+        "type": "Internal Server Error",
+        "statusCode": 500
+    },
+    "DUPLICATE_ENTRY": {
+        "message": "Input is not unique where it should be",
+        "type": "Validation Error",
+        "statusCode": 400
+    },
+    "NOT_FOUND": {
+        "message": "Input not found in database",
+        "type": "Not Found",
+        "statusCode": 404
+    },
+    "INVALID_TRANSACTION": {
+        "message": "The requested transaction is not valid",
+        "type": "Transaction Error",
+        "statusCode": 400
+    }
+}
