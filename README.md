@@ -24,8 +24,8 @@ Local Run: Run npm i on the root directory and run the application with nodemon 
 
 Local Testing: https://www.getpostman.com/collections/f66daf29746fd93e9faf
 
-Hosted Testing: https://www.getpostman.com/collections/ce3e6e4a5363c761a03b
 Hosted in a AWS Server at pragatigarg.in and served through nginx
 
+Hosted Testing: https://www.getpostman.com/collections/ce3e6e4a5363c761a03b
 
 ### README will be updated as the project progresses
